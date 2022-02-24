@@ -22,3 +22,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+# Modifications  
+* Created a sidebar for the table of contents 
+* Removed image styles and moved it to the sidebar 
+* Removed "START OF THE PROJECT GUTENBERG EBOOK [Book Title]"
+* Added line-height to the paragraphs 
+* Removed line breaks in .asterism and centered it
