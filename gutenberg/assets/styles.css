@@ -41,6 +41,9 @@ table {
     margin-bottom: 2em;
 }
 
+/*
+ *  Reference: https://blog.hubspot.com/website/css-sidebar
+*/
 .sidebar {
     background-color: #141E27;
     left:0;
