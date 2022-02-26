@@ -29,3 +29,6 @@ Code is licensed under the Apache 2.0 license.
 * Added line-height to the paragraphs 
 * Removed line breaks in .asterism and centered it
 * Changed title tag to have the title of the book
+
+# Source Code
+* https://blog.hubspot.com/website/css-sidebar

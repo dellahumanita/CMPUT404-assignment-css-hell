@@ -74,15 +74,15 @@
     - [x] Ugly theme has to be noticeabley different.
     - [x] 2 HTML files, each with the same content but different CSS
     - [x] your photo (try to keep it professional)
-    - [ ] Take 2 screenshots of firefox running all of your pages that
+    - [x] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
-    - [ ] homepage/good.html should host your good page
+    - [x] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [x] homepage/good.html should host your good page
     - [x] homepage/ugly.html should host your ugly page
     - [x] gutenberg/1.html should host your first gutenberg book
     - [x] gutenberg/2.html should host your second gutenberg book
     - [x] gutenberg/3.html should host your third gutenberg book
-    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+    - [x] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
 ** Restrictions
    - [ ] You may use Python
